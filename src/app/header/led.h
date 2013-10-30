@@ -32,7 +32,6 @@
         LED_DS4_OFF();     \
     } while(0)
 
-
 #define
 
 void led_gpio_init(void);
