@@ -1,0 +1,1 @@
+driver for off chip periphral device and common device control ic
